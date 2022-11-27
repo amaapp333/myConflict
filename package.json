@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/amaapp333/myConflict/issues"
   },
-  "homepage": "https://github.com/amaapp333/myConflict",
+  "homepage": "https://my-conflict.vercel.app/",
   "files": [
     "index.js"
   ],
